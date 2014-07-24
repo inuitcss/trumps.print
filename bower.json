@@ -1,0 +1,17 @@
+{
+  "name": "inuit-print",
+  "version": "0.0.1",
+  "authors": [
+    "Harry Roberts <harry@csswizardry.com>"
+  ],
+  "description": "Simple, reset-like print styles.",
+  "main": "_trumps.print.scss",
+  "keywords": [
+    "css",
+    "oocss",
+    "inuitcss",
+    "print"
+  ],
+  "license": "Apache 2",
+  "homepage": "https://github.com/inuitcss/trumps.print"
+}
