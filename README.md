@@ -7,3 +7,7 @@ Boilerplate](https://github.com/h5bp/html5-boilerplate).
 Install using Bower:
 
     $ bower install --save inuit-print
+
+Install using npm:
+
+    $ npm install --save inuit-print
